@@ -35,6 +35,7 @@ book:
         - part2/gen_models/score_matching.ipynb
         - part2/gen_models/diffusion_models.ipynb
         - part2/gen_models/flow_matching.ipynb
+        - part2/gen_models/latent_generative_models.ipynb
         #- part2/review_linear_models.qmd
         #- part2/review_NNs.qmd
         #- part2/regularization_NNs.qmd
