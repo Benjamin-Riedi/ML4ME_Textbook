@@ -221,6 +221,9 @@ Temporary Items
 *.h5
 *.pb
 
+# Large checkpoint archives
+engibench_checkpoints.zip
+
 # Logs
 *.log
 logs/
